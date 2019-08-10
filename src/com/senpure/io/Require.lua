@@ -1,0 +1,5 @@
+require("com.senpure.io.ConsumerUtil")
+require("com.senpure.io.ConsumerDecoder")
+require("com.senpure.io.ConsumerManager")
+require("com.senpure.io.CShapeTest")
+require("com.senpure.io.Start")
